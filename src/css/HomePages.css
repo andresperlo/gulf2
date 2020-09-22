@@ -1,0 +1,83 @@
+.img-gulf{
+    width: 100%;
+    height: 100vh;
+}
+.img-logo{
+    width: 50%;
+}
+.footer-css{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ml5-css{
+    padding-left: 30px;
+}
+.mr5-css{
+    padding-right: 30px;
+}
+.div-gulf{
+    padding: 20px;
+    position: absolute;
+    z-index: 100;
+    text-align: center;
+    border-radius: 30px;
+    border: whitesmoke 3px solid;
+    box-shadow: inset 0 0 150px white;
+}
+
+footer{
+    background-color: rgba(5, 15, 100);
+}
+.class-img-css{
+    height: 100vh;
+}
+.div-Carousel{
+    display: flex;
+    justify-content: center;
+}
+
+
+@media (max-width: 600px){
+    .img-gulf{
+        width: 100%;
+        height: 50vh;
+    }
+    .footer-css{
+        display: block;
+    }
+    .ml5-css{
+        padding: 0;
+    }
+    .ml5-css{
+        display: flex;
+        justify-content: center;
+    }
+    .mr5-css{
+        padding-top: 10px;
+        padding-right: 0;
+    }
+    .h2-css{
+        text-align: center;
+    }
+    .div-gulf{
+        padding: 7px;
+        position: absolute;
+        text-align: center;
+        border-radius: 10px;
+        border: whitesmoke 3px solid;
+        box-shadow: inset 0 0 150px white;  
+    }
+    .div-gulf h1{
+        font-size: 15px;
+    }
+    .div-gulf h3{
+        font-size: 15px;
+    }
+    .div-gulf h5{
+        font-size: 15px;
+    }
+    .class-img-css{
+        height: 75vh;
+    }
+}
