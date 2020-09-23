@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "105231e96fb0e8409ff49c729ad038a8",
+    "revision": "04db0ed1054989f3a77296acf81f0991",
     "url": "/gulf2/index.html"
   },
   {
-    "revision": "3d9cb43a1aae22639acd",
+    "revision": "3c6f82c87075c468c1f2",
     "url": "/gulf2/static/css/main.4405de1b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/js/2.42e1d65c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d9cb43a1aae22639acd",
-    "url": "/gulf2/static/js/main.c3bad62c.chunk.js"
+    "revision": "3c6f82c87075c468c1f2",
+    "url": "/gulf2/static/js/main.86e926c2.chunk.js"
   },
   {
     "revision": "8017e21870afd5250d9c",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/media/empanadas.db944772.jpg"
   },
   {
-    "revision": "0c51fd5f994e8aa68718fd287961a111",
-    "url": "/gulf2/static/media/estacion.0c51fd5f.jpg"
+    "revision": "405e14328420f289b34237069360c29c",
+    "url": "/gulf2/static/media/estacion.405e1432.jpg"
   },
   {
     "revision": "91f0ff143758a8555b43f32358717570",
