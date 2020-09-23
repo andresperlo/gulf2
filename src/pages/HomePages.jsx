@@ -31,39 +31,39 @@ function HomePages() {
             <div>
                 {/* Autor: Andres Perlo - CEl 3814443123 */}
 
-                <div id="carouselExampleFade" class="div-Carousel carousel slide carousel-fade" data-ride="carousel">
+                <div id="carouselExampleFade" className="div-Carousel carousel slide carousel-fade" data-ride="carousel">
 
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src={frente1} class="d-block w-100 class-img-css" alt="..." />
+                    <div className="carousel-inner">
+                        <div className="carousel-item active">
+                            <img src={frente1} className="d-block w-100 class-img-css" alt="..." />
                         </div>
-                        <div class="carousel-item">
-                            <img src={adelante} class="d-block w-100 class-img-css" alt="..." />
+                        <div className="carousel-item">
+                            <img src={adelante} className="d-block w-100 class-img-css" alt="..." />
                         </div>
-                        <div class="carousel-item">
-                            <img src={patio} class="d-block w-100 class-img-css" alt="..." />
+                        <div className="carousel-item">
+                            <img src={patio} className="d-block w-100 class-img-css" alt="..." />
                         </div>
-                        <div class="carousel-item">
-                            <img src={kiosco} class="d-block w-100 class-img-css" alt="..." />
+                        <div className="carousel-item">
+                            <img src={kiosco} className="d-block w-100 class-img-css" alt="..." />
                         </div>
-                        <div class="carousel-item">
-                            <img src={costado2} class="d-block w-100 class-img-css" alt="..." />
+                        <div className="carousel-item">
+                            <img src={costado2} className="d-block w-100 class-img-css" alt="..." />
                         </div>
-                        <div class="carousel-item">
-                            <img src={estacion} class="d-block w-100 class-img-css" alt="..." />
+                        <div className="carousel-item">
+                            <img src={estacion} className="d-block w-100 class-img-css" alt="..." />
                         </div>
                     </div>
                     <div className='neon-css'>
                         <img src={logo} className='imagen-neon-css' alt="" />
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+                    <a className="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
                     </a>
-                    <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+                    <a className="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
                     </a>
                 </div>
             </div>
 
-            <div className='pt-5 pb-3 text-center'>
+            <div className='py-5 text-center'>
                 <h3 className='menu-titulo'>Nuestro Menu</h3>
             </div>
             <div className="container">
@@ -195,7 +195,7 @@ function HomePages() {
                         <div className='d-flex justify-content-center'>
                             <h2><a href="tel: +5438196036303"><i className="fas fa-phone-volume pb-3 icon-css"></i></a></h2>
                             <h2 className='css-h2 subtitulos-footer mx-3'>381 603 6303</h2>
-                            <h2><a href="https://bit.ly/33VDeQH" target='_blank'><i class="fab fa-whatsapp icon-css"></i></a></h2>
+                            <h2><a href="https://bit.ly/33VDeQH" target='_blank'><i className="fab fa-whatsapp icon-css"></i></a></h2>
                         </div>
                         <h2 className='tucuman-css subtitulos-footer pb-3'>San Miguel de Tucuman</h2>
                         <h2 className='tucuman-css subtitulos-footer'>TUCUMAN - ARGENTINA</h2>
