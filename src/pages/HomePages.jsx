@@ -202,9 +202,9 @@ function HomePages() {
                         </div>
                         <h2 className='subtitulos-footer pt-3'><i className="fas fa-map-marker-alt pb-3 css-h2 icon-avsiria"></i> Av. Siria 1968</h2>
                         <div className='d-flex justify-content-center'>
-                            <h2><a href="tel: +543814443123"><i className="fas fa-phone-volume pb-3 icon-css"></i></a></h2>
+                            <h2><a href="tel: +5438196036303"><i className="fas fa-phone-volume pb-3 icon-css"></i></a></h2>
                             <h2 className='css-h2 subtitulos-footer mx-3'>381 603 6303</h2>
-                            <h2><a href="http://bit.ly/GulfTuc" target='_blank'><i class="fab fa-whatsapp icon-css"></i></a></h2>
+                            <h2><a href="https://bit.ly/33VDeQH" target='_blank'><i class="fab fa-whatsapp icon-css"></i></a></h2>
                         </div>
                         <h2 className='tucuman-css subtitulos-footer pb-3'>San Miguel de Tucuman</h2>
                         <h2 className='tucuman-css subtitulos-footer'>TUCUMAN - ARGENTINA</h2>
