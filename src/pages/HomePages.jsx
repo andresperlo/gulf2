@@ -198,8 +198,7 @@ function HomePages() {
                             <h2><a href="https://bit.ly/33VDeQH" target='_blank'><i className="fab fa-whatsapp icon-css"></i></a></h2>
                         </div>
                         <h2 className='tucuman-css subtitulos-footer pb-3'>San Miguel de Tucuman</h2>
-                        <h2 className='tucuman-css subtitulos-footer'>TUCUMAN - ARGENTINA</h2>
-
+                        <h2 className='tucuman-css titulos'>TUCUMAN - ARGENTINA</h2>
                     </div>
                     <div className='mr5-css text-center'>
                         <h4 className='pb-3 subtitulos-footer AvSiriaCss'>Haz cick para ver como llegar</h4>
