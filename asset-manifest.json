@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gulf2/static/css/main.4405de1b.chunk.css",
-    "main.js": "/gulf2/static/js/main.86e926c2.chunk.js",
-    "main.js.map": "/gulf2/static/js/main.86e926c2.chunk.js.map",
+    "main.css": "/gulf2/static/css/main.e49e4588.chunk.css",
+    "main.js": "/gulf2/static/js/main.d4eb3418.chunk.js",
+    "main.js.map": "/gulf2/static/js/main.d4eb3418.chunk.js.map",
     "runtime-main.js": "/gulf2/static/js/runtime-main.01ff7837.js",
     "runtime-main.js.map": "/gulf2/static/js/runtime-main.01ff7837.js.map",
     "static/js/2.42e1d65c.chunk.js": "/gulf2/static/js/2.42e1d65c.chunk.js",
     "static/js/2.42e1d65c.chunk.js.map": "/gulf2/static/js/2.42e1d65c.chunk.js.map",
     "index.html": "/gulf2/index.html",
-    "precache-manifest.a5ec4bea202e355c9d7e323170bcf659.js": "/gulf2/precache-manifest.a5ec4bea202e355c9d7e323170bcf659.js",
+    "precache-manifest.f2ef5a84bb631cd2efc61854305bd574.js": "/gulf2/precache-manifest.f2ef5a84bb631cd2efc61854305bd574.js",
     "service-worker.js": "/gulf2/service-worker.js",
-    "static/css/main.4405de1b.chunk.css.map": "/gulf2/static/css/main.4405de1b.chunk.css.map",
+    "static/css/main.e49e4588.chunk.css.map": "/gulf2/static/css/main.e49e4588.chunk.css.map",
     "static/js/2.42e1d65c.chunk.js.LICENSE.txt": "/gulf2/static/js/2.42e1d65c.chunk.js.LICENSE.txt",
     "static/media/adelante.jpg": "/gulf2/static/media/adelante.a895c555.jpg",
     "static/media/asado.jpg": "/gulf2/static/media/asado.f57b7b1a.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.01ff7837.js",
     "static/js/2.42e1d65c.chunk.js",
-    "static/css/main.4405de1b.chunk.css",
-    "static/js/main.86e926c2.chunk.js"
+    "static/css/main.e49e4588.chunk.css",
+    "static/js/main.d4eb3418.chunk.js"
   ]
 }
