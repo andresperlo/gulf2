@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47351453fac91d06a58a6225c88bbbfa",
+    "revision": "d83bf44b98cb5b2e89e318c36cc058ef",
     "url": "/gulf2/index.html"
   },
   {
-    "revision": "d36ccc0adb0ad320b061",
-    "url": "/gulf2/static/css/main.78e15db5.chunk.css"
+    "revision": "9ce04fca04ccdd4f6eff",
+    "url": "/gulf2/static/css/main.4405de1b.chunk.css"
   },
   {
-    "revision": "d15b011b06b8048c3ba5",
-    "url": "/gulf2/static/js/2.160ef344.chunk.js"
+    "revision": "4c1b474dbd72965f855f",
+    "url": "/gulf2/static/js/2.3851af52.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gulf2/static/js/2.160ef344.chunk.js.LICENSE.txt"
+    "url": "/gulf2/static/js/2.3851af52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d36ccc0adb0ad320b061",
-    "url": "/gulf2/static/js/main.ef902efa.chunk.js"
+    "revision": "9ce04fca04ccdd4f6eff",
+    "url": "/gulf2/static/js/main.a68ed86d.chunk.js"
   },
   {
     "revision": "8017e21870afd5250d9c",
@@ -52,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/media/cortadito.8f33005c.jpg"
   },
   {
+    "revision": "d9480611c714ae8d72e818660013461c",
+    "url": "/gulf2/static/media/costado2.d9480611.jpg"
+  },
+  {
     "revision": "db94477221b9abd7a055db12a4200952",
     "url": "/gulf2/static/media/empanadas.db944772.jpg"
+  },
+  {
+    "revision": "0c51fd5f994e8aa68718fd287961a111",
+    "url": "/gulf2/static/media/estacion.0c51fd5f.jpg"
   },
   {
     "revision": "91f0ff143758a8555b43f32358717570",
