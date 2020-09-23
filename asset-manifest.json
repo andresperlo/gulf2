@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gulf2/static/css/main.f3084434.chunk.css",
+    "main.css": "/gulf2/static/css/main.78e15db5.chunk.css",
     "main.js": "/gulf2/static/js/main.ef902efa.chunk.js",
     "main.js.map": "/gulf2/static/js/main.ef902efa.chunk.js.map",
     "runtime-main.js": "/gulf2/static/js/runtime-main.01ff7837.js",
@@ -8,9 +8,9 @@
     "static/js/2.160ef344.chunk.js": "/gulf2/static/js/2.160ef344.chunk.js",
     "static/js/2.160ef344.chunk.js.map": "/gulf2/static/js/2.160ef344.chunk.js.map",
     "index.html": "/gulf2/index.html",
-    "precache-manifest.3794dd823ace15835c39ea222ab2b793.js": "/gulf2/precache-manifest.3794dd823ace15835c39ea222ab2b793.js",
+    "precache-manifest.bb7036b8c5f678f29297dddcf3b0e314.js": "/gulf2/precache-manifest.bb7036b8c5f678f29297dddcf3b0e314.js",
     "service-worker.js": "/gulf2/service-worker.js",
-    "static/css/main.f3084434.chunk.css.map": "/gulf2/static/css/main.f3084434.chunk.css.map",
+    "static/css/main.78e15db5.chunk.css.map": "/gulf2/static/css/main.78e15db5.chunk.css.map",
     "static/js/2.160ef344.chunk.js.LICENSE.txt": "/gulf2/static/js/2.160ef344.chunk.js.LICENSE.txt",
     "static/media/adelante.jpg": "/gulf2/static/media/adelante.a895c555.jpg",
     "static/media/aguasaborizada.jpg": "/gulf2/static/media/aguasaborizada.6878b081.jpg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.01ff7837.js",
     "static/js/2.160ef344.chunk.js",
-    "static/css/main.f3084434.chunk.css",
+    "static/css/main.78e15db5.chunk.css",
     "static/js/main.ef902efa.chunk.js"
   ]
 }
