@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d83bf44b98cb5b2e89e318c36cc058ef",
+    "revision": "105231e96fb0e8409ff49c729ad038a8",
     "url": "/gulf2/index.html"
   },
   {
-    "revision": "9ce04fca04ccdd4f6eff",
+    "revision": "3d9cb43a1aae22639acd",
     "url": "/gulf2/static/css/main.4405de1b.chunk.css"
   },
   {
-    "revision": "4c1b474dbd72965f855f",
-    "url": "/gulf2/static/js/2.3851af52.chunk.js"
+    "revision": "6f7e0bdc1d1fa460436d",
+    "url": "/gulf2/static/js/2.42e1d65c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/gulf2/static/js/2.3851af52.chunk.js.LICENSE.txt"
+    "url": "/gulf2/static/js/2.42e1d65c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ce04fca04ccdd4f6eff",
-    "url": "/gulf2/static/js/main.a68ed86d.chunk.js"
+    "revision": "3d9cb43a1aae22639acd",
+    "url": "/gulf2/static/js/main.c3bad62c.chunk.js"
   },
   {
     "revision": "8017e21870afd5250d9c",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a895c555d48933965f2737737973e00b",
     "url": "/gulf2/static/media/adelante.a895c555.jpg"
-  },
-  {
-    "revision": "6878b081bbbaf42d72d5215afa6e4941",
-    "url": "/gulf2/static/media/aguasaborizada.6878b081.jpg"
   },
   {
     "revision": "f57b7b1aada81e728544f76945da0754",
@@ -42,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d467b62d9020477922cb688e9816139",
     "url": "/gulf2/static/media/cafeconleche.0d467b62.jpg"
-  },
-  {
-    "revision": "7dc17db82e4f5eeaed592f12deb95aef",
-    "url": "/gulf2/static/media/cerveza.7dc17db8.jpg"
   },
   {
     "revision": "8f33005cf61ca706819cc5893dfdfe08",
@@ -76,26 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/media/gaseosas.eb94a1b2.jpg"
   },
   {
-    "revision": "6762d40f9691c7bf5d27b59757e6472a",
-    "url": "/gulf2/static/media/home.6762d40f.jpg"
-  },
-  {
-    "revision": "5bbb85bbf82d9c244a4583cb720aa716",
-    "url": "/gulf2/static/media/humita.5bbb85bb.jpg"
-  },
-  {
-    "revision": "667552b14c1dcfa23ff6aa35c704871f",
-    "url": "/gulf2/static/media/img1.667552b1.jpg"
-  },
-  {
-    "revision": "3628d840b39e231e2753d726c8d4ffd6",
-    "url": "/gulf2/static/media/img2.3628d840.jpg"
-  },
-  {
-    "revision": "5f71541ae2b7aa51eb1a504f6d8dfc26",
-    "url": "/gulf2/static/media/img3.5f71541a.jpg"
-  },
-  {
     "revision": "cab0362e6a6c25e46437004dca5f89b9",
     "url": "/gulf2/static/media/kiosco.cab0362e.jpg"
   },
@@ -112,16 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/media/logo.c23dcc63.png"
   },
   {
-    "revision": "42241a2daf34c4f6aca24b6b195ad756",
-    "url": "/gulf2/static/media/lubricantes.42241a2d.jpg"
-  },
-  {
     "revision": "a25bfcd2aa82939f8a053a5183ed8568",
     "url": "/gulf2/static/media/napo.a25bfcd2.jpg"
-  },
-  {
-    "revision": "c2f655f0e7f0de5ef666882a73a042c8",
-    "url": "/gulf2/static/media/neon.c2f655f0.jpg"
   },
   {
     "revision": "f712129568c4f56a5079bf6f8c60bc31",
@@ -138,10 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "049589060f438d8d8b4db4d57dd5d709",
     "url": "/gulf2/static/media/sandwichlomito.04958906.jpg"
-  },
-  {
-    "revision": "3cbd64505c8f738e720bff118b8682af",
-    "url": "/gulf2/static/media/tamales.3cbd6450.jpg"
   },
   {
     "revision": "7c69471f301d2f7b68f52251230ba4a7",
