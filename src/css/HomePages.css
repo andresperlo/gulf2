@@ -148,12 +148,17 @@ h2 a i{
         font-size: 3rem;
     }
     .diagEstacionServ{
-        font-size: 1.9rem;
+        font-size: 1.8rem;
     }
     .GLLCss{
         font-size: 1.1rem;
     }
     .AvSiriaCss{
         font-size: 1.3rem;
+    }
+    .border-laDiag{
+        border: 2px solid white;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
