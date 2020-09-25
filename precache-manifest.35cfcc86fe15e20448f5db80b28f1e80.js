@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b9303ae4dd55509651ffc9ea4e5a3a",
+    "revision": "00fa2c73aff0d5b95592462161a5f8db",
     "url": "/gulf2/index.html"
   },
   {
-    "revision": "a54c77895e25d69d3198",
-    "url": "/gulf2/static/css/main.8466881c.chunk.css"
+    "revision": "f2d71c4091129acd469e",
+    "url": "/gulf2/static/css/main.270d0f3d.chunk.css"
   },
   {
     "revision": "68099f1a80d17f26c6e5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gulf2/static/js/2.512791ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a54c77895e25d69d3198",
-    "url": "/gulf2/static/js/main.6c8489a9.chunk.js"
+    "revision": "f2d71c4091129acd469e",
+    "url": "/gulf2/static/js/main.7311c0b0.chunk.js"
   },
   {
     "revision": "8017e21870afd5250d9c",
